@@ -1,5 +1,5 @@
-# Hack IT 2018 - Aalborg University Case
 ![Aalborg University](img/aau_logo.png)
+# Hack IT 2018 - Aalborg University Case
 
 This repository contains files related to Aalborg University's case of [Hack IT 2018](https://dit.dk/da/Arrangementer/Disrupt-Denmark-for-students/HackIT2018).
 
