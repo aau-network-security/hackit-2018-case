@@ -18,7 +18,7 @@ Maybe the computer carries the secrets the police are looking for?
 ## Exercise
 You have the two following virtual machines available:
 * [Kali Linux machine](https://images.offensive-security.com/virtual-images/kali-linux-2017.3-vbox-i386.ova), which contains all the tools needed (and more) to solve the case **(attacker)**
-* [The mentioned Windows XP Machine](https://drive.google.com/file/d/13I46Da6DuOc1hTyFLoFYFFEQPKyD7RUb/view?usp=sharing) **(target)**
+* [The mentioned Windows XP Machine](http://kom.aau.dk/~tkp/downloads/suspicious_windows_xp.ova) **(target)**
 
 *Please only download the images if you have no other way of getting them, preferably locally on the provided machine or USB-stick*
 
