@@ -5,7 +5,7 @@ This repository contains files related to Aalborg University's case of [Hack IT 
 
 ## The Case: No trace left behind?
 For years, the police has been working towards infiltrating a group of cynical criminals, working throughout all the major Danish cities: The group is assumed to control large parts of the underground economy, including trafficking, money laundring, drug trade, and assassinations. 
-During a cold and stormy evening, a large number of specially trained policemen are ready for the big raid towards the supposed head quarters on an abandonned farm in a desolated area of Northern Jutland.
+During a cold and stormy evening, a large number of specially trained policemen are ready for the big raid towards the supposed head quarters on an abandoned farm in a desolated area of Northern Jutland.
 However, except for a party going on at the neighboring farm, they found that the crimials already left the buildings. 
 
 There is nothing to be found – until a policeman stumbles upon an old computer. He is able to boot it, and reaches a Windows XP login screen.
